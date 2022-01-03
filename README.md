@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis with VBA
 #### Analyzing green energy stocks to make an educated financial investment
 
 ## Overview of Project
